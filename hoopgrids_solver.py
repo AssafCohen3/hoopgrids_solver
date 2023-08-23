@@ -313,6 +313,8 @@ def solve_grid_cmd(optimize: str, grid_date: str, cell: list[int]):
     if grid_date.strip() == '':
         grid_date = 'Today'
     optimize = optimize.lower() == 'yes'
+    if len(cell) == 0:
+        cell = None
     main(optimize, grid_date, cell)
 
 
