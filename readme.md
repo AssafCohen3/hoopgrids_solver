@@ -2,9 +2,9 @@
 
 
 ## Downlod
-Windos - link for windows
+[Windos](https://github.com/AssafCohen3/hoopgrids_solver/releases/latest/download/hoopgrids_solver.exe)
 
-Linux - link for linux
+[Linux](https://github.com/AssafCohen3/hoopgrids_solver/releases/latest/download/hoopgrids_solver_amd64)
 
 ## building in linux:
 
