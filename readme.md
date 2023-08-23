@@ -1,7 +1,7 @@
 # HoopGrids solver
 
 
-## Downlod
+## Download
 [Windows](https://github.com/AssafCohen3/hoopgrids_solver/releases/latest/download/hoopgrids_solver.exe)
 
 [Linux](https://github.com/AssafCohen3/hoopgrids_solver/releases/latest/download/hoopgrids_solver_amd64)
