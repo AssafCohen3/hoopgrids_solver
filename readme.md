@@ -4,7 +4,7 @@
 ## Download
 [Windows](https://github.com/AssafCohen3/hoopgrids_solver/releases/latest/download/hoopgrids_solver.exe)
 
-[Linux](https://github.com/AssafCohen3/hoopgrids_solver/releases/latest/download/hoopgrids_solver_amd64)
+[Linux](https://github.com/AssafCohen3/hoopgrids_solver/releases/latest/download/hoopgrids_solver_amd64) - not valid anymore
 
 ## building in linux:
 
