@@ -1,8 +1,4 @@
 setuptools>=58
 click>=8.1.7
-click_default_group>=1.2.4
-pyjson5>=1.6.4
 requests>=2.27.1
-bs4>=0.0.1
-beautifulsoup4>=4.10.0
-html5lib>=1.1
+unidecode
