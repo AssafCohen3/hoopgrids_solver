@@ -139,7 +139,7 @@ def display_grid(grid_date: str, grid: Grid) -> str:
 @click.argument('grid_date', required=False, default='Today')
 def main(grid_date: str):
 	if grid_date.lower() == 'today':
-		current_grid_date = datetime.datetime.now() - datetime.timedelta(days=1)
+		current_grid_date = datetime.datetime.utcnow() - datetime.timedelta(days=1)
 		grid_date = current_grid_date.strftime('%d-%m-%Y')
 	print(f'requested grid date: {grid_date}.')
 	day_code = get_date_code(grid_date)
